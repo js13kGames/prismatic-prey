@@ -1,4 +1,8 @@
 ---
+genres:
+  - survival
+  - action
+  - roguelike
 video: https://youtu.be/kVCBl4MpEcg
 post: https://github.com/lazarv/prismatic-prey/blob/main/README.md
 # See github.com/js13kGames/hello-world for supported frontmatter
